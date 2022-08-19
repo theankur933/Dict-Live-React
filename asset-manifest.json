@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dict-Live-React/static/css/main.e6c13ad2.css",
+    "main.js": "/Dict-Live-React/static/js/main.674d038b.js",
+    "static/js/787.0157ba9a.chunk.js": "/Dict-Live-React/static/js/787.0157ba9a.chunk.js",
+    "index.html": "/Dict-Live-React/index.html",
+    "main.e6c13ad2.css.map": "/Dict-Live-React/static/css/main.e6c13ad2.css.map",
+    "main.674d038b.js.map": "/Dict-Live-React/static/js/main.674d038b.js.map",
+    "787.0157ba9a.chunk.js.map": "/Dict-Live-React/static/js/787.0157ba9a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.674d038b.js"
+  ]
+}
